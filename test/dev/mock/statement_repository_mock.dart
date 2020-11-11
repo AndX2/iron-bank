@@ -9,7 +9,11 @@ import 'package:iron_bank/gateway/statement/statement_repository.dart';
 class StatementRepositoryMock implements StatementRepository {
   @override
   Future<Money> fetchBalance() async {
-    await await Future.delayed(Duration(seconds: 3));
-    return Money.from(silverDeers: 53);
+    await Future.delayed(Duration(seconds: 3));
+    return Money.from(
+      goldenDragons: 3,
+      silverDeers: 53,
+      copperPenny: 160,
+    );
   }
 }

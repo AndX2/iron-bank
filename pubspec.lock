@@ -499,6 +499,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.2.3"
+  shimmer:
+    dependency: "direct main"
+    description:
+      name: shimmer
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.1.2"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -546,6 +553,20 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.1.0-nullsafety.1"
+  surf_lint_rules:
+    dependency: transitive
+    description:
+      name: surf_lint_rules
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.0.2-dev.1"
+  swipe_refresh:
+    dependency: "direct main"
+    description:
+      name: swipe_refresh
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.0.1-dev.9"
   term_glyph:
     dependency: transitive
     description:
@@ -618,4 +639,4 @@ packages:
     version: "2.2.1"
 sdks:
   dart: ">=2.10.0-110 <2.11.0"
-  flutter: ">=1.12.13+hotfix.5 <2.0.0"
+  flutter: ">=1.17.0 <2.0.0"

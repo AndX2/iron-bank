@@ -1,8 +1,9 @@
 # iron_bank
 
-A new Flutter project.
+Демо проект Flutter приложения. 
+Dependency Injection с GetIt, Injectable, Injectable codegen. 
 
-## Getting Started
+## Генерация графов с отслеживанием изменений файлов в проекте
 
 DI generation:
 
