@@ -38,7 +38,7 @@ dependencies:
   # Реактивные потоки
   rxdart: ^0.24.1
   swipe_refresh: ^0.0.1-dev.9
-  shimmer: 1.1.2
+  shimmer: 1.0.1
 
 dev_dependencies:
   flutter_test:
